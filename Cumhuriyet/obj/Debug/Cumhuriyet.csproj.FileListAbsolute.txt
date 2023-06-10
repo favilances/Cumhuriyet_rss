@@ -1,0 +1,15 @@
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet.csproj.AssemblyReference.cache
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet.Form1.resources
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet.Properties.Resources.resources
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet.csproj.GenerateResource.cache
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet.csproj.CoreCompileInputs.cache
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\bin\Debug\Guna.UI2.dll
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet.csproj.CopyComplete
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\bin\Debug\CodeHollow.FeedReader.dll
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet.RSS_TekHaber.resources
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet.BuyukResim.resources
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\bin\Debug\Cumhuriyet Gazetesi.exe.config
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\bin\Debug\Cumhuriyet Gazetesi.exe
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\bin\Debug\Cumhuriyet Gazetesi.pdb
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet Gazetesi.exe
+C:\Users\favilances\source\repos\Cumhuriyet\Cumhuriyet\obj\Debug\Cumhuriyet Gazetesi.pdb
